@@ -1,1 +1,4 @@
-About: MCA student learning Git and GitHub
+About: First-year MCA student passionate about software development and database management.
+Technical Stack: Python (OOP, File Handling, Data Structures), SQL, MySQL, and Git/GitHub.
+Projects: Working on a Garage Management System web application and exploring data analytics.
+Goal: Building practical coding skills and mastering collaborative workflows on GitHub.
