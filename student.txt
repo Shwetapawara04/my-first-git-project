@@ -1,3 +1,4 @@
-Name: Shweta Pawara 
-Course: MCA 
-Day: 1
+Name: Shweta Pawara
+Course: First Year MCA (Division B)
+Institute: IMCC, Pune
+Day: 2 - Practicing file updates and commits on GitHub
